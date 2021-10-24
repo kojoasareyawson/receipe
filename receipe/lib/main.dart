@@ -103,17 +103,5 @@ Widget buildRecipeCard(Myrecipe recipe) {
         ],
       ),
     ),
-    // GestureDetector(
-    //         onTap: () {
-    //           Navigator.push(
-    //             context,
-    //             MaterialPageRoute(
-    //               builder: (context) {
-    //                 return const Text('Detail page');
-    //               },
-    //             ),
-    //           );
-    //         },
-    //       )
   );
 }
